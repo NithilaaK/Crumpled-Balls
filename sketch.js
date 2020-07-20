@@ -19,7 +19,7 @@ function setup() {
 	box2 = new Dustbin(930, 415, 20, 100);
 	box3 = new Dustbin(1130, 415, 20, 100);
 
-	paper = new Paper(200, 200);
+	paper = new Paper(200, 400);
 
 	ground = new Ground(640, 605, 1280, 280);
 
